@@ -821,3 +821,7 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
 .affix{position:fixed;}
 
 /*Custom Styles*/
+footer{
+	text-align:left;
+	margin:10px;
+}
